@@ -11,8 +11,8 @@
 ### 🚀 About Me
 
 # Hey, I'm Mobin 👋  
-I'm a Computer Science student who enjoys understanding how computers work—from software and databases to operating systems and hardware. Most of my time is spent building projects, learning new technologies, and occasionally going down rabbit holes that start with a simple question and end several hours later.  
- I enjoy working with Python, MySQL, and Linux, and I'm always looking for opportunities to learn something new by building real projects.  
+I'm a Computer Science student who enjoys understanding how computers work—from software and databases to operating systems and hardware. Most of my time is spent learning about computers and occasionally going down rabbit holes that start with a simple question and end several hours later.  
+ I enjoy working with Python, MySQL, Linux, and Computers in general :) I'm always looking for opportunities to learn something new by building real projects.  
 Currently studying Computer Science at Kharazmi University and working toward becoming a better software engineer one project at a time.
 
 🌱 &nbsp;I'm currently learning **MySQL**
@@ -29,8 +29,9 @@ Currently studying Computer Science at Kharazmi University and working toward be
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mobinebrahimkhani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/@Mobinekh" target="_blank" rel ="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:mobin.ebrahimkhani62@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mobinebrahimkhani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 📊 GitHub Stats
