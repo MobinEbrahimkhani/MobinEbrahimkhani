@@ -1,16 +1,50 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/MobinEbrahimkhani">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=474&text=Hello%20World!" alt="Hello World!" />
+  </a>
+</p>
 
-<!--
-**MobinEbrahimkhani/MobinEbrahimkhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?weight=600&size=14&pause=1000&color=ff7b72&center=true&vCenter=true&width=850&height=44&lines=Computer%20Enthusiast%20with%20a%20Questionable%20Sleep%20Schedule;CS%20student%2C%20Always%20learning" alt="Typing headlines" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey, I'm Mobin 👋  
+I'm a Computer Science student who enjoys understanding how computers work—from software and databases to operating systems and hardware. Most of my time is spent building projects, learning new technologies, and occasionally going down rabbit holes that start with a simple question and end several hours later.  
+ I enjoy working with Python, MySQL, and Linux, and I'm always looking for opportunities to learn something new by building real projects.  
+Currently studying Computer Science at Kharazmi University and working toward becoming a better software engineer one project at a time.
+
+🌱 &nbsp;I'm currently learning **MySQL**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mobinebrahimkhani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mobin.ebrahimkhani62@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MobinEbrahimkhani&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MobinEbrahimkhani&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MobinEbrahimkhani&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/MobinEbrahimkhani">MobinEbrahimkhani</a></i></p>
