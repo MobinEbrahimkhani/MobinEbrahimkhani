@@ -15,7 +15,7 @@ I'm a Computer Science student who enjoys understanding how computers work—fro
  I enjoy working with Python, MySQL, Linux, and Computers in general :) I'm always looking for opportunities to learn something new by building real projects.  
 Currently studying Computer Science at Kharazmi University and working toward becoming a better software engineer one project at a time.
 
-🌱 &nbsp;I'm currently learning **MySQL**
+🌱 &nbsp;**Currently learning:** Networking fundamentals, backend development, and Go
 
 ### <p align="center">🛠️ Tech Stack 
 
